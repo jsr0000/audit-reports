@@ -20,23 +20,17 @@ Each audit report includes:
 
 ***All audits follow a manual and automated review process, including:***
 
--Static and dynamic analysis
-
--Formal verification (when applicable)
-
--Gas and efficiency analysis
-
--Fuzzing and invariant testing
+- Static and dynamic analysis
+- Formal verification (when applicable)
+- Gas and efficiency analysis
+- Fuzzing and invariant testing
 
 ****Tools and frameworks used may include:****
 
--Slither
-
--Aderyn
-
--Foundry
-
--Manual line-by-line review
+- Slither
+- Aderyn
+- Foundry
+- Manual line-by-line review
 
 
 **🔒 Disclaimer**
