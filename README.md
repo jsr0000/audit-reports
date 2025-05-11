@@ -1,50 +1,46 @@
-🔍 Audit Reports Repository
+*🔍 Audit Reports Repository*
 
 Welcome to the official repository of my smart contract and blockchain security audit reports. This repository contains detailed assessments of decentralized applications (dApps), protocols, and smart contracts, with the goal of improving security, transparency, and developer accountability.
 
 
-📋 Contents of Each Report
+**📋 Contents of Each Report**
 
 Each audit report includes:
 - Executive Summary
 - Scope
 - Risk Clarification 
-- Methodology
-- Findings & Severity Levels
-- Recommendations
-- Conclusion
+- Protocol Summary
+- Findings (incl. recommendations)
 
-🛠 Methodology
-All audits follow a manual and automated review process, including:
+**🛠 Methodology**
 
-Static and dynamic analysis
+***All audits follow a manual and automated review process, including:***
 
-Formal verification (when applicable)
+-Static and dynamic analysis
 
-Gas and efficiency analysis
+-Formal verification (when applicable)
 
-Fuzzing and invariant testing
+-Gas and efficiency analysis
 
-Tools and frameworks used may include:
+-Fuzzing and invariant testing
 
-Slither
+****Tools and frameworks used may include:****
 
-MythX
+-Slither
+-Aderyn
+-Foundry
+-Manual line-by-line review
 
-Echidna
+**🔒 Disclaimer**
 
-Foundry
+These audit reports do not guarantee the security of any codebase and should not be considered as a final stamp of approval. Security is a continuous process, and I would recommend ongoing reviews and a bug bounty program where appropriate.
 
-Manual line-by-line review
+**📬 Contact**
 
-🔒 Disclaimer
-These audit reports do not guarantee the security of any codebase and should not be considered as a final stamp of approval. Security is a continuous process, and we recommend ongoing reviews and a bug bounty program where appropriate.
-
-📬 Contact
 For questions, further audits, or clarifications:
 
-Name: [Your Name]
+Name: Josh Regnart
 
-Email: [your.email@example.com]
+Email: [josh.regnart@gmail.com](josh.regnart@gmail.com)
 
-Twitter/Website: [@yourhandle or yoursite.com]
+Website: [joshregnart.vercel.app](joshregnart.vercel.app)
