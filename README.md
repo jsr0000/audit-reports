@@ -46,6 +46,6 @@ These audit reports do not guarantee the security of any codebase and should not
 
 Name: Josh Regnart
 
-Email: [josh.regnart@gmail.com](josh.regnart@gmail.com)
+Email: josh.regnart@gmail.com
 
 Website: [joshregnart.vercel.app](https://joshregnart.vercel.app/)
