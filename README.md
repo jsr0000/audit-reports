@@ -48,4 +48,4 @@ Name: Josh Regnart
 
 Email: [josh.regnart@gmail.com](josh.regnart@gmail.com)
 
-Website: [joshregnart.vercel.app](joshregnart.vercel.app)
+Website: [joshregnart.vercel.app](https://joshregnart.vercel.app/)
